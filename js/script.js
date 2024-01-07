@@ -1,1 +1,1 @@
-// window.location.replace('HTML/Class-03/part1/index.html');
+window.location.replace('HTML/Class-03/part1/index.html');
