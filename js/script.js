@@ -1,1 +1,1 @@
-window.location.replace('HTML/Class-06/index.html');
+window.location.replace('HTML/Class-07/index.html');
