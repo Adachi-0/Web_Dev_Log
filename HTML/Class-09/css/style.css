@@ -265,28 +265,28 @@ nav {
 }
 
 #contact .black-bg .container .name {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-bottom: 1px solid #777c81;
     width: 678px;
     text-align: center;
 }
 
 #contact .black-bg .container .email {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-bottom: 1px solid #777c81;
     width: 678px;
     text-align: center;
 }
 
 #contact .black-bg .container .subject {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-bottom: 1px solid #777c81;
     width: 1170px;
     text-align: center;
 }
 
 #contact .black-bg .container .message {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-bottom: 1px solid #777c81;
     width: 1170px;
     text-align: center;
